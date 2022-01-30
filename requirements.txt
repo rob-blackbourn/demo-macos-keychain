@@ -1,0 +1,2 @@
+pyobjc==8.2
+bareclient==5.0.1
